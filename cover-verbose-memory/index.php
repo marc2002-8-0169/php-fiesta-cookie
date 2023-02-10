@@ -5,7 +5,7 @@
     <meta name="author" content="">
     <link rel="icon" href="/docs/4.0/assets/img/favicons/favicon.ico">
 
-    <title>Cover Template for Bootstrap</title>
+    <title>Home</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/cover/">
 
@@ -14,7 +14,7 @@
     <!-- <link href="../../dist/css/bootstrap.min.css" rel="stylesheet"> -->
 
     <!-- Custom styles for this template -->
-    <link href="cover.css" rel="stylesheet">
+    <link rel="stylesheet" href="cover.css" >
   </head>
 
   <body class="text-center">
@@ -24,16 +24,16 @@
         <div class="inner">
           <h3 class="masthead-brand">Cover</h3>
           <nav class="nav nav-masthead justify-content-center">
-            <a class="nav-link active" href="#">Home</a>
-            <a class="nav-link" href="#">Features</a>
-            <a class="nav-link" href="#">Contact</a>
+            <a class="nav-link active" href="index.php">Home</a>
+            <a class="nav-link" href="features.php">Features</a>
+            <a class="nav-link" href="contacts.php">Contact</a>
           </nav>
         </div>
       </header>
 
       <main role="main" class="inner cover">
-        <h1 class="cover-heading">Cover your page.</h1>
-        <p class="lead">Cover is a one-page template for building simple and beautiful home pages. Download, edit the text, and add your own fullscreen background photo to make it your own.</p>
+        <h1 class="cover-heading">Hello. Start your day with the smile!</h1>
+        
         <p class="lead">
           <a href="#" class="btn btn-lg btn-secondary">Learn more</a>
         </p>
